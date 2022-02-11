@@ -1,6 +1,6 @@
 ### Olá, sou o Jorge Mendes
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho como estagiario back-end
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 
 ##
