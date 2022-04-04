@@ -1,6 +1,6 @@
 ### Olá, sou o Jorge Mendes
 
-- 🔭 Hoje trabalho como estagiario back-end
+- 🔭 Hoje trabalho como Desenvolvedor Java Jr
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 
 ##
